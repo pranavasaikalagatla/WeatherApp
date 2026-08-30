@@ -1,1 +1,1 @@
-https://pranavasaikalagatla.github.io/WeatherApp/
+https://pranavasaikalagatla.github.io/weatherapp/
